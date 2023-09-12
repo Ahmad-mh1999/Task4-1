@@ -1,0 +1,29 @@
+.conatiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+button{
+    width: 150px;
+    background-color:rgb(23, 6, 37) ;
+    color: white;
+    padding: 20px;
+    margin: auto 0;
+    border-radius: 10px;
+    outline: none;
+    
+}
+
+#sumOdd, #sumEven, #serial ,#sumLessThanFive{
+    margin: 30px auto;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 10px;
+    background-color: rgb(183, 129, 233);
+    color: white;
+}
